@@ -1,3 +1,3 @@
 
-# Was beinhaltet der Bausatz? [](id=was-beinhaltet-der-bausatz?)
+# Inhalt des Bausatzes [](id=inhalt-des-bausatzes)
 Test...
