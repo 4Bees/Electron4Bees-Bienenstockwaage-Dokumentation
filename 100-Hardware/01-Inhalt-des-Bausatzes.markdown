@@ -1,3 +1,0 @@
-
-# Inhalt des Bausatzes [](id=inhalt-des-bausatzes)
-Test...
