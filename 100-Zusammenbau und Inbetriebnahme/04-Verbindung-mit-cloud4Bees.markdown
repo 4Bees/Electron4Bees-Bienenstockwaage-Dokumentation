@@ -26,6 +26,6 @@ Dieser Prozess wurde wesentlich vereinfacht und erfolgt nun über ein einfaches 
 
 Besuchen Sie die Internetseite  [4Bees.at](https://www.4bees.at/web/guest/cloud4bees). und füllen das folgende Formular aus.
 
-![cloud4Bees - Verbindung herstellen](../images/cloud4Bees-Verbindung herstellen.JPG)
+![cloud4Bees - Verbindung herstellen](../images/cloud4Bees-Verbindung-herstellen.JPG)
 
 Die Verbindung wird nun über ein Programm automatisch erstellt. Die Daten werden jedoch erst übermittelt, wenn sie den ersten Schritt der Kalibrierung abgeschlossen haben. Das Programm überprüft, ob ein gültiger Scalefactor vorhanden ist und übermittelt erst dann die Daten.
