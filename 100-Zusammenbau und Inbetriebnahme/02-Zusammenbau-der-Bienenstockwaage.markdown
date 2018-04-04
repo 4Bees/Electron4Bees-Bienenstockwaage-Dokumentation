@@ -4,7 +4,11 @@
 
 **Elekronik.** Durch das Breakoutboard kann die Elektronik ohne Löten und elektronische Erfahrung zusammengebaut werden. Einzig auf die richtige Polung bei den Steckern und dem Microcontrollerboard ist zu achten.
 
-* Wie das Electron Microcontroller auf das Breakoutboard gesteckt werden muss ist durch die weißen Linien vorgegeben. Die richtige Polung bei den Steckern ergibt sich immer dadurch, wenn das schwarze Kabel zu GND geführt wird. Der RGB- und der Resetstecker werden bei dieser Version nicht verwendet und dienen lediglich Entwicklungszwecken.
+* Wie das Electron Microcontroller auf das Breakoutboard gesteckt werden muss ist durch die weißen Linien vorgegeben.
+
+* Die richtige Polung bei den Steckern ergibt sich immer dadurch, wenn das schwarze Kabel zu GND geführt wird.
+
+* Der RGB- und der Resetstecker werden bei dieser Version nicht verwendet und dienen lediglich Entwicklungszwecken.
 
 * Wie die Wägezelle mit dem Breakoutboard verbunden werden muss ist der Beschriftung auf dem Board zu entnehmen.
 
@@ -16,4 +20,4 @@
 
 * Der Ein-/Ausschalter wird mit zwei Steckern mit dem Breakoutboard verbunden. Die zwei inneren Kabel am Schalter werden mit On/Off am Breakoutboard verbunden. Die beiden  äußeren Kabel (diese sind mit +/- am Schalter gekennzeichnet) werden mit LED/D3 am Breakoutboard verbunden.
 
-* Die externe Stromversorgung (Solarzelle, Powerbank, Ladegerät,...) wird über eine 5.1 mm Klinkenbuchse mit der Bienenstockwaage verbunden. Die 5.1 mm Klinkenbuchse mit dem Stecker mit der Beschriftung Buchse mit dem Breakoutboard verbunden.
+* Die externe Stromversorgung (Solarzelle, Powerbank, Ladegerät,...) wird über eine 5.1 mm Klinkenbuchse mit der Bienenstockwaage verbunden. Die 5.1 mm Klinkenbuchse wird mit dem Stecker mit der Beschriftung Buchse mit dem Breakoutboard verbunden.
