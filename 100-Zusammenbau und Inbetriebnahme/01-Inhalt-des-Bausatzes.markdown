@@ -3,6 +3,8 @@
 
 Was beinhaltet der Bausatz?
 
+![Electron4Bees - GSM - Bienenstockwaage - Bausatz](../images/Electron4Bees-Bienenstockwaage-Bausatz.jpg)
+
 Gratulation! Sie sind nun ein glücklicher Besitzer eines Bausatzes für eine Electron4Bees - Bienenstockwaage. Der Bausatz beinhaltet alle Teile für den Zusammenbau einer GSM-Bienenstockwaage mit dem Electron Microcontrollerboard von Particle.
 
 **Wägemodul.** Das Wägemodul besteht aus der Wägezelle H40A von Bosche, einem Wägegestell aus Aluminum und den erforderlichen Kleinteilen für den Zusammenbau des Wägemoduls.
@@ -24,3 +26,5 @@ Gratulation! Sie sind nun ein glücklicher Besitzer eines Bausatzes für eine El
 **2x 3,5 mm Klinkenbuchse.** Über die zwei 3,5 mm Klinkenbuchsen können zwei DHT22 Temperatur- und Luftfeuchtigkeitssensoren angeschlossen werden.
 
 **Gehäuse.** Durch das Gehäuse ist die gesamte Elektronik nach dem IP67 Standard vor Staub und Feuchtigkeit geschützt.
+
+![Electron4Bees - GSM - Bienenstockwaage - Elektronik - Bausatz](../images/Photon4Bees-Elektronik-Bausatz.jpg)
