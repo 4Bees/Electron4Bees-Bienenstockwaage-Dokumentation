@@ -19,13 +19,3 @@ Nachdem Sie sich bei cloud4Bees.at angemeldet haben können Sie einen Kanal erst
 ![Kanal erstelen bei cloud4Bees](../images/cloud4Bees-Kanal-erstellen.JPG)
 
 Jeder Kanal erhält einen API-Schlüssel und eine Kanal ID. Diese benötigen Sie, um eine Verbindung mit der Bienenstockwaage herzustellen.
-
-### Verbindung mit cloud4Bees herstellen
-
-Dieser Prozess wurde wesentlich vereinfacht und erfolgt nun über ein einfaches Formular. Den Rest erledigt ein Javascript-Programm im Hintergrund. Achten Sie darauf, dass ihr Browser Cookies erlaubt, damit das Programm ungehindert arbeiten kann.
-
-Besuchen Sie die Internetseite  [4Bees.at](https://www.4bees.at/web/guest/cloud4bees). und füllen das folgende Formular aus.
-
-![cloud4Bees - Verbindung herstellen](../images/cloud4Bees-Verbindung-herstellen.JPG)
-
-Die Verbindung wird nun über ein Programm automatisch erstellt. Die Daten werden jedoch erst übermittelt, wenn sie den ersten Schritt der Kalibrierung abgeschlossen haben. Das Programm überprüft, ob ein gültiger Scalefactor vorhanden ist und übermittelt erst dann die Daten.
