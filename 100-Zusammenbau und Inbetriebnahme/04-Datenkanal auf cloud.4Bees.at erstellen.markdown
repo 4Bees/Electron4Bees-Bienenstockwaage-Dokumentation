@@ -7,7 +7,8 @@ Dies erfolgt über die Datenplattform cloud4Bees. Jeder Besitzer einer Electron4
 
 Besuchen Sie die Datenplattform cloud4Bees.at und wählen Sie den Menüpunkt Registrieren:
 
-![Registrierung bei cloud4Bees](../images/cloud4Bees-Registrierung.JPG)
+![Abb.: Registrierung bei cloud4Bees](../images/cloud4Bees-Registrierung.JPG)
+
 
 Füllen Sie das Registrierungsformular aus und Sie erhalten Zugang zur Datenplattform cloud4Bees.at.
 
@@ -16,6 +17,7 @@ Füllen Sie das Registrierungsformular aus und Sie erhalten Zugang zur Datenplat
 
 Nachdem Sie sich bei cloud4Bees.at angemeldet haben können Sie einen Kanal erstellen. Wählen Sie im Menü Meine Kanäle und klicken Sie auf den Button Erstellen:
 
-![Kanal erstelen bei cloud4Bees](../images/cloud4Bees-Kanal-erstellen.JPG)
+![Abb.: Kanal erstelen bei cloud4Bees](../images/cloud4Bees-Kanal-erstellen.JPG)
+
 
 Jeder Kanal erhält einen API-Schlüssel und eine Kanal ID. Diese benötigen Sie, um eine Verbindung mit der Bienenstockwaage herzustellen.
